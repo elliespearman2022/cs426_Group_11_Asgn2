@@ -1,2 +1,2 @@
 # cs426_Group_11_Asgn2
-Coin-Op-Cat
+Coin-Op-Cat is a multi-player escape/outwit game, with no maximum player limit. You play as a cat, trapped inside of a broken old-school arcade game. Your objective is to collect enough mechanical parts within the machine to turn the arcade game back on and escape. You must avoid specific “danger” areas throughout the map and you also have the oprotunity to sabotage other players/ be sabotaged by other players within the game. You have 1 minute total to collect enought parts and escape. You must collect enough parts intime enough in order to escape back to reality!
